@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ec596fb.chunk.css",
-    "main.js": "/static/js/main.f83eb4e3.chunk.js",
-    "main.js.map": "/static/js/main.f83eb4e3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b41bd68.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b41bd68.js.map",
-    "static/js/2.d9b3f72d.chunk.js": "/static/js/2.d9b3f72d.chunk.js",
-    "static/js/2.d9b3f72d.chunk.js.map": "/static/js/2.d9b3f72d.chunk.js.map",
-    "static/js/3.e9a374e9.chunk.js": "/static/js/3.e9a374e9.chunk.js",
-    "static/js/3.e9a374e9.chunk.js.map": "/static/js/3.e9a374e9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3ec596fb.chunk.css.map": "/static/css/main.3ec596fb.chunk.css.map",
-    "static/js/2.d9b3f72d.chunk.js.LICENSE.txt": "/static/js/2.d9b3f72d.chunk.js.LICENSE.txt",
-    "static/media/stylesheet.css": "/static/media/bg-desktop-dark.73e47dbb.jpg"
+    "main.css": "/todo-app-Reactjs/static/css/main.b00c81fb.chunk.css",
+    "main.js": "/todo-app-Reactjs/static/js/main.e7800ea9.chunk.js",
+    "main.js.map": "/todo-app-Reactjs/static/js/main.e7800ea9.chunk.js.map",
+    "runtime-main.js": "/todo-app-Reactjs/static/js/runtime-main.ac76b80c.js",
+    "runtime-main.js.map": "/todo-app-Reactjs/static/js/runtime-main.ac76b80c.js.map",
+    "static/js/2.75da3f64.chunk.js": "/todo-app-Reactjs/static/js/2.75da3f64.chunk.js",
+    "static/js/2.75da3f64.chunk.js.map": "/todo-app-Reactjs/static/js/2.75da3f64.chunk.js.map",
+    "static/js/3.e9a374e9.chunk.js": "/todo-app-Reactjs/static/js/3.e9a374e9.chunk.js",
+    "static/js/3.e9a374e9.chunk.js.map": "/todo-app-Reactjs/static/js/3.e9a374e9.chunk.js.map",
+    "index.html": "/todo-app-Reactjs/index.html",
+    "static/css/main.b00c81fb.chunk.css.map": "/todo-app-Reactjs/static/css/main.b00c81fb.chunk.css.map",
+    "static/js/2.75da3f64.chunk.js.LICENSE.txt": "/todo-app-Reactjs/static/js/2.75da3f64.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/todo-app-Reactjs/static/media/bg-desktop-dark.73e47dbb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b41bd68.js",
-    "static/js/2.d9b3f72d.chunk.js",
-    "static/css/main.3ec596fb.chunk.css",
-    "static/js/main.f83eb4e3.chunk.js"
+    "static/js/runtime-main.ac76b80c.js",
+    "static/js/2.75da3f64.chunk.js",
+    "static/css/main.b00c81fb.chunk.css",
+    "static/js/main.e7800ea9.chunk.js"
   ]
 }
