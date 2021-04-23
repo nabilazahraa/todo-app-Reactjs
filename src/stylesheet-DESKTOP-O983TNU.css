@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+body {
+  background-image: url(./images/bg-desktop-dark.jpg);
+  background-repeat: no-repeat;
+  position: center;
+  background-size: 100%;
+  background-color: hsl(235, 21%, 11%);
+}
+
+h1 {
+  padding-top: 100px;
+  padding-left: 0;
+  margin-left: -300px;
+  margin-top: 0;
+  font-size: 30px;
+  font-family: "Josefin Sans", sans-serif;
+  height: 50px;
+  width: 100%;
+  color: hsl(234, 39%, 85%);
+}
+#todo {
+  font-family: "Josefin Sans", sans-serif;
+  width: 650px;
+  margin-top: 20px;
+  height: 40px;
+  margin-right: 10px;
+  outline: none;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: hsl(235, 24%, 19%);
+  border-radius: 4px;
+}
+
+.todolist {
+  display: flex;
+  font-family: "Josefin Sans", sans-serif;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+  font-size: 25px;
+  outline: none;
+  border-bottom: 1px solid hsl(235, 19%, 35%);
+  padding: 10px;
+  color: white;
+  background-color: hsl(235, 24%, 19%);
+  border-radius: 4px;
+}
+.bg {
+  background-color: hsl(234, 39%, 85%);
+  margin-top: 10px;
+  margin-right: 480px;
+  margin-left: 380px;
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.addtodo {
+  height: 58px;
+  width: 90px;
+  border-radius: 4px;
+  outline: none;
+  background-color: hsl(235, 24%, 19%);
+  color: white;
+  text-align: center;
+  border: none;
+  font-size: 12px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.addtodo:hover {
+  background-color: hsl(235, 19%, 35%);
+}
+.delete:hover {
+  background-color: hsl(235, 19%, 35%);
+}
+
+.delete {
+  padding: 10px;
+  height: 40px;
+  border-radius: 4px;
+  border: none;
+  margin-left: 0;
+  background-color: hsl(235, 24%, 19%);
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+#check {
+  height: 25px;
+  width: 30px;
+  position: relative;
+  margin-left: 30px;
+  background-color: hsl(234, 39%, 85%);
+  display: inline-flex;
+  cursor: pointer;
+  position: relative;
+}
+
+@media screen and (max-width: 800px) {
+  .bg {
+    margin-right: 55px;
+    margin-left: 45px;
+  }
+  body {
+    background-image: url(./images/bg-mobile-dark.jpg);
+    background-repeat: no-repeat;
+    position: center;
+    background-size: 100%;
+    background-color: hsl(235, 21%, 11%);
+  }
+
+  #todo {
+    font-family: "Josefin Sans", sans-serif;
+    width: 300px;
+    margin-top: 20px;
+    height: 40px;
+    outline: none;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: hsl(235, 24%, 19%);
+    border-radius: 4px;
+  }
+  .addtodo {
+    display: none;
+  }
+  h1 {
+    padding-top: 100px;
+    padding-left: 0;
+    margin-left: 0px;
+    margin-top: 0;
+    font-size: 25px;
+    font-family: "Josefin Sans", sans-serif;
+    height: 50px;
+    width: 100%;
+    color: hsl(234, 39%, 85%);
+  }
+}
