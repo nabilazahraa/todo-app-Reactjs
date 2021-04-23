@@ -4,7 +4,6 @@ import TodoListItem from "./Todo";
 import "./stylesheet.css";
 import firebase from "firebase";
 import db from "./firebase";
-import { Button } from "@material-ui/core";
 
 function App() {
   const [input, setInput] = useState("");
