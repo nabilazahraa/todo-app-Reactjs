@@ -101,10 +101,10 @@ h1 {
   position: relative;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .bg {
     margin-right: 55px;
-    margin-left: 45px;
+    margin-left: 60px;
   }
   body {
     background-image: url(./images/bg-mobile-dark.jpg);
