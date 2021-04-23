@@ -50,8 +50,8 @@ h1 {
 .bg {
   background-color: hsl(234, 39%, 85%);
   margin-top: 10px;
-  margin-right: 480px;
-  margin-left: 380px;
+  margin-right: 300px;
+  margin-left: 290px;
   border-radius: 4px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -101,7 +101,7 @@ h1 {
   position: relative;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 500px) {
   .bg {
     margin-right: 40px;
     margin-left: 28px;
@@ -110,7 +110,7 @@ h1 {
     background-image: url(./images/bg-mobile-dark.jpg);
     background-repeat: no-repeat;
     position: center;
-    background-size: 100%;
+    background-size: 120%;
     background-color: hsl(235, 21%, 11%);
   }
 
